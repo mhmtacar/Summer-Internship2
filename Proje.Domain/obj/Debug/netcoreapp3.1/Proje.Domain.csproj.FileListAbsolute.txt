@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.deps.json
+C:\Users\hp\source\repos\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\source\repos\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\source\repos\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.deps.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.AssemblyInfoInputs.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.AssemblyInfo.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.csproj.CoreCompileInputs.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.deps.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.AssemblyInfo.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Domain\obj\Debug\netcoreapp3.1\Proje.Domain.pdb

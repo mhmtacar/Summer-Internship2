@@ -1,0 +1,12 @@
+﻿@model User
+
+<form method="post">
+    <h2><b>Asagida hesabi silmek istediginizi emin misiniz?</b></h2>
+    <input type="hidden" asp-for="Id" /> 
+    <p>@Model.Username</p>
+
+    <button type="submit" class="btn btn-success">Sil</button>
+    <a asp-controller="User" asp-action="Index" class="btn btn-danger">Iptal</a>
+
+</form>
+

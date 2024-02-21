@@ -1,0 +1,294 @@
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.exe
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.deps.json
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.runtimeconfig.json
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.Views.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.Views.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Application.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Data.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Application.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Data.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.AssemblyInfo.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\staticwebassets\Proje.web.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.TagHelpers.input.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.TagHelpers.output.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.Views.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.CopyComplete
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.dll
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.pdb
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.genruntimeconfig.cache
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.exe
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.deps.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.runtimeconfig.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.runtimeconfig.dev.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.Views.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.Views.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Application.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Data.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Application.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Data.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.AssemblyReference.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.AssemblyInfoInputs.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.AssemblyInfo.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.CoreCompileInputs.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.MvcApplicationPartsAssemblyInfo.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorAssemblyInfo.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorAssemblyInfo.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\staticwebassets\Proje.web.StaticWebAssets.Manifest.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\staticwebassets\Proje.web.StaticWebAssets.xml
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\scopedcss\bundle\Proje.web.styles.css
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.TagHelpers.input.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.TagHelpers.output.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorCoreGenerate.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorTargetAssemblyInfo.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorTargetAssemblyInfo.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.Views.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.CopyComplete
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.genruntimeconfig.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Booking.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\CompleteReservation.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetArrivalAutoComplete.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetProductInfo.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\PriceSearch.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchBar.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\libman.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.AssemblyInfo.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.StaticWebAssets.xml
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.exe
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.deps.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.runtimeconfig.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.Views.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.web.Views.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Application.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Data.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Application.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Data.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\staticwebassets\Proje.web.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.TagHelpers.input.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.TagHelpers.output.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Booking.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\CompleteReservation.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetArrivalAutoComplete.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetProductInfo.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index2.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\PriceSearch.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchBar.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Create.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.Views.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.csproj.CopyComplete
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.web\obj\Debug\netcoreapp3.1\Proje.web.genruntimeconfig.cache

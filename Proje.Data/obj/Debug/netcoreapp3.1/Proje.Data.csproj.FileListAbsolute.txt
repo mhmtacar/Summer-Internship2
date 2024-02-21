@@ -1,0 +1,48 @@
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.deps.json
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.runtimeconfig.json
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.dll
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.pdb
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\source\repos\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.dll
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.pdb
+C:\Users\hp\source\repos\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.genruntimeconfig.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.deps.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.runtimeconfig.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.runtimeconfig.dev.json
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.AssemblyReference.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.AssemblyInfoInputs.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.AssemblyInfo.cs
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.CoreCompileInputs.cache
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.CopyComplete
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.dll
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.pdb
+D:\Windows10\Downloads\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.genruntimeconfig.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.deps.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.runtimeconfig.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Data.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Domain.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\bin\Debug\netcoreapp3.1\Proje.Domain.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.csproj.CopyComplete
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.dll
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.pdb
+C:\Users\hp\Desktop\Proje (2)\Proje\Proje.Data\obj\Debug\netcoreapp3.1\Proje.Data.genruntimeconfig.cache

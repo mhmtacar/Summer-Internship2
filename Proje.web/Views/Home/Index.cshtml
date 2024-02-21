@@ -1,0 +1,35 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<script src="~/jquery/jquery.min.js"></script>
+<script src="~/jquery-validate/jquery.validate.min.js"></script>
+<script src="~/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <form method="post" action="Home\LoginUser">
+        <table>
+            <tr>
+                <td>Name</td>
+                <td><input type="text" id="username_id" name="username" /></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type="text" id="password_id" name="password" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+
